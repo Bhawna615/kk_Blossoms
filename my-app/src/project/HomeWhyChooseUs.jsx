@@ -12,7 +12,7 @@ const HomeWhyChooseUs = () => {
           {/* Left Text Section */}
           <div className="col-lg-7 my-5 pt-5 pb-lg-5">
             <div className="section-title position-relative mb-4">
-              <h6 className="d-inline-block position-relative text-secondary text-uppercase pb-2">
+              <h6 className="d-inline-block position-relative text-danger text-uppercase pb-2">
                 Why Choose Us?
               </h6>
               <h1 className="display-4">
@@ -44,7 +44,7 @@ const HomeWhyChooseUs = () => {
 
             {/* Feature 2 */}
             <div className="d-flex mb-3">
-              <div className="btn-icon bg-secondary mr-4"style={{borderRadius:"50%"}}>
+              <div className="btn-icon bg-danger mr-4"style={{borderRadius:"50%"}}>
                 <i className="fa fa-2x fa-certificate text-white"></i>
               </div>
               <div className="mt-n1">

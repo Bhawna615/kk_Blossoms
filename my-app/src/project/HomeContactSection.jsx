@@ -46,7 +46,7 @@ const HomeContactSection = () => {
           {/* Contact Form */}
           <div className="col-lg-7">
             <div className="section-title position-relative mb-4">
-              <h6 className="d-inline-block position-relative text-secondary text-uppercase pb-2">
+              <h6 className="d-inline-block position-relative text-danger text-uppercase pb-2">
                 Need Help?
               </h6>
               <h1 className="display-4">Send Us A Message</h1>

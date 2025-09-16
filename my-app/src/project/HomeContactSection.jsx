@@ -21,7 +21,7 @@ const HomeContactSection = () => {
                 </div>
               </div>
               <div className="d-flex align-items-center mb-5">
-                <div className="btn-icon bg-secondary mr-4"style={{borderRadius:"50%"}}>
+                <div className="btn-icon bg-danger mr-4"style={{borderRadius:"50%"}}>
                   <i className="fa fa-2x fa-phone-alt text-white"></i>
                 </div>
                 <div className="mt-n1">

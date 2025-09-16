@@ -55,7 +55,7 @@ const HomeAboutSection = () => {
                 </div>
               </div>
               <div className="col-3 px-0">
-                <div className="bg-secondary text-center p-4">
+                <div className="bg-danger text-center p-4">
                   <h1 className="text-white">50+</h1>
                   <h6 className="text-uppercase text-white">
                    Smart Classrooms

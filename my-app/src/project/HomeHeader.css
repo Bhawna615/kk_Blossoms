@@ -1,0 +1,26 @@
+.banner-serction {
+    background: linear-gradient(rgba(104, 161, 241, 0.95), rgba(93, 135, 194, 40%)), url("./photos/Background-Img.PNG"), no-repeat center center;
+    background-size: cover;
+    margin-bottom: 60px;
+}
+.home-desc{
+  color: #ffff;
+  font-size: 25px;
+}
+/* Tablet */
+@media (max-width: 992px) {
+  .banner-section {
+    min-height: 300px;
+    padding: 40px 15px;
+    background-position: center top;
+  }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .banner-section {
+    min-height: 250px;
+    padding: 30px 10px;
+    background-position: top;
+  }
+}
